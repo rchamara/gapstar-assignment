@@ -1,0 +1,17 @@
+{
+  "name": "gapstar-assessment",
+  "version": "1.0.0",
+  "description": "assessment for gapstart interview.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ruwan chamara",
+  "license": "ISC",
+  "dependencies": {
+    "@mapbox/blend": "^2.0.1",
+    "https": "^1.0.0",
+    "minimist": "^1.2.6",
+    "path": "^0.12.7"
+  }
+}
