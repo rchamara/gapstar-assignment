@@ -17,7 +17,7 @@ node index.js
 ```
 in your root folder
 
-this will generate a new image in the build folder inside the root 
+this will generate a new image in the build folder inside the root and will return success message and file path in console.
 
 available arguments are 
 ```
@@ -41,3 +41,4 @@ example:
 node index.js --greeting <user-values> --who <user-value> --color <user-value> ...
 ```
 replace ```<user-value>``` with your values
+
